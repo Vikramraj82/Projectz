@@ -1,2 +1,5 @@
  Hello My World
  How ru
+Java
+jenkins
+Mode
